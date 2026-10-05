@@ -147,3 +147,15 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# AI agents and LLM tools
+.agents/
+.gemini/
+.claude/
+.cursor/
+.copilot/
+.chat/
+*.prompt
+AGENTS.md
+GEMINI.md
+CLAUDE.md

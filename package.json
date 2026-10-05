@@ -1,0 +1,19 @@
+{
+  "name": "node26226preentrega",
+  "version": "1.0.0",
+  "description": "Construir una herramienta de consola (CLI) que permita interactuar y gestionar los productos de una tienda en línea consumiendo la API de [FakeStore](https://fakestoreapi.com/docs) de forma asíncrona mediante comandos ingresados en la terminal.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivancarneiro/node26226preEntrega.git"
+  },
+  "keywords": [],
+  "author": "Ivan Carneiro",
+  "license": "ISC",
+  "type": "module",
+  "homepage": "https://github.com/ivancarneiro/node26226preEntrega#readme"
+}
