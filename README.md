@@ -9,6 +9,20 @@ Construir una herramienta de consola (CLI) que permita interactuar y gestionar l
 
 ---
 
+## 📑 Índice
+- [🎯 Objetivo del Proyecto](#-objetivo-del-proyecto)
+- [⚙️ Configuración del Entorno y Scripts](#️-configuración-del-entorno-y-scripts)
+- [🚀 Uso de Comandos (CLI)](#-uso-de-comandos-cli)
+  - [1) Consultar todos los productos](#1-consultar-todos-los-productos)
+  - [2) Consultar un producto específico](#2-consultar-un-producto-específico)
+  - [3) Crear un nuevo producto](#3-crear-un-nuevo-producto)
+  - [4) Eliminar un producto](#4-eliminar-un-producto)
+- [🧪 Pruebas Automatizadas (Testing)](#-pruebas-automatizadas-testing)
+- [💡 Buenas Prácticas y Arquitectura](#-buenas-prácticas-y-arquitectura)
+- [📋 Resumen de Comandos](#-resumen-de-comandos)
+
+---
+
 ## ⚙️ Configuración del Entorno y Scripts
 
 - **Punto de entrada:** [`index.js`](./index.js).
